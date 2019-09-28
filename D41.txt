@@ -21,7 +21,7 @@ siva.xinu@gmail.com
 raghuk.vit@gmail.com
 sanagareddy@gmail.com
 swapnilpharal@gmail.com
-adakolito@gmail.com
+#adakolito@gmail.com
 
 ## CareerIT
 bobbireddy.satya@gmail.com
