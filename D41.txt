@@ -19,8 +19,8 @@ Gii.intl@gmail.com
 #lokeshgowd5@gmail.com
 siva.xinu@gmail.com
 raghuk.vit@gmail.com
-sanagareddy@gmail.com
-swapnilpharal@gmail.com
+#sanagareddy@gmail.com
+#swapnilpharal@gmail.com
 #adakolito@gmail.com
 
 ## Added last 
